@@ -1,0 +1,2090 @@
+{
+  "1": [
+    {
+      "cuit": "30546689979",
+      "denominacion": "YPF SOCIEDAD ANONIMA",
+      "deuda_total": 1712364440.0,
+      "entidades": [
+        {
+          "entidad": "BANCO DE LA NACION ARGENTINA",
+          "monto": 656973922.0
+        },
+        {
+          "entidad": "BANCO BBVA ARGENTINA S.A.",
+          "monto": 232203329.0
+        },
+        {
+          "entidad": "BANCO SANTANDER ARGENTINA S.A.",
+          "monto": 143869087.0
+        },
+        {
+          "entidad": "BANCO DE GALICIA Y BUENOS AIRES S.A.",
+          "monto": 143150723.0
+        },
+        {
+          "entidad": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ARGENTINA) S.A.U.",
+          "monto": 108418554.0
+        },
+        {
+          "entidad": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+          "monto": 87790781.0
+        },
+        {
+          "entidad": "BANCO PATAGONIA S.A.",
+          "monto": 65949598.0
+        },
+        {
+          "entidad": "BANCO DE LA CIUDAD DE BUENOS AIRES",
+          "monto": 54041040.0
+        },
+        {
+          "entidad": "CITIBANK N.A.",
+          "monto": 35821746.0
+        },
+        {
+          "entidad": "BANCO SUPERVIELLE S.A.",
+          "monto": 34287695.0
+        },
+        {
+          "entidad": "BANCO CMF S.A.",
+          "monto": 24364460.0
+        },
+        {
+          "entidad": "BANCO DE VALORES S.A.",
+          "monto": 16572470.0
+        },
+        {
+          "entidad": "BANCO DE SAN JUAN S.A.",
+          "monto": 15839494.0
+        },
+        {
+          "entidad": "BANCO HIPOTECARIO S.A.",
+          "monto": 14323010.0
+        },
+        {
+          "entidad": "BANCO INDUSTRIAL S.A.",
+          "monto": 14154030.0
+        },
+        {
+          "entidad": "BANCO DE LA PROVINCIA DE CORDOBA S.A.",
+          "monto": 12368590.0
+        },
+        {
+          "entidad": "BANCO PIANO S.A.",
+          "monto": 10997310.0
+        },
+        {
+          "entidad": "NUEVO BANCO DE SANTA FE SOCIEDAD ANONIMA",
+          "monto": 10869296.0
+        },
+        {
+          "entidad": "BANCO CREDICOOP COOPERATIVO LIMITADO",
+          "monto": 8593794.0
+        },
+        {
+          "entidad": "BANCO DE LA PAMPA SA",
+          "monto": 6881474.0
+        },
+        {
+          "entidad": "NUEVO BANCO DE ENTRE RIOS S.A.",
+          "monto": 2954051.0
+        },
+        {
+          "entidad": "BANCO DE SERVICIOS Y TRANSACCIONES SAU",
+          "monto": 2864602.0
+        },
+        {
+          "entidad": "BANCO DE CORRIENTES S.A.",
+          "monto": 2864598.0
+        },
+        {
+          "entidad": "BANCO DE SANTA CRUZ S.A.",
+          "monto": 1458573.0
+        },
+        {
+          "entidad": "BANCO COMAFI SOCIEDAD ANONIMA",
+          "monto": 1438389.0
+        },
+        {
+          "entidad": "BANCO PROVINCIA DEL NEUQUEN SOCIEDAD ANONIMA",
+          "monto": 1052433.0
+        },
+        {
+          "entidad": "BANCO DE FORMOSA S.A.",
+          "monto": 989931.0
+        },
+        {
+          "entidad": "BANCO MACRO S.A.",
+          "monto": 709384.0
+        },
+        {
+          "entidad": "BANCO COLUMBIA S.A.",
+          "monto": 354962.0
+        },
+        {
+          "entidad": "BACS BANCO DE CREDITO Y SECURITIZACION S.A.",
+          "monto": 137474.0
+        },
+        {
+          "entidad": "AMERICAN EXPRESS ARGENTINA S.A.",
+          "monto": 69640.0
+        }
+      ]
+    },
+    {
+      "cuit": "30695542476",
+      "denominacion": "PAN AMERICAN ENERGY, S.L., SUCURSAL ARGENTINA",
+      "deuda_total": 1360751065.0,
+      "entidades": [
+        {
+          "entidad": "BANCO DE LA NACION ARGENTINA",
+          "monto": 280239570.0
+        },
+        {
+          "entidad": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ARGENTINA) S.A.U.",
+          "monto": 256429084.0
+        },
+        {
+          "entidad": "BANCO DE GALICIA Y BUENOS AIRES S.A.",
+          "monto": 227740682.0
+        },
+        {
+          "entidad": "CITIBANK N.A.",
+          "monto": 138200351.0
+        },
+        {
+          "entidad": "BANCO SANTANDER ARGENTINA S.A.",
+          "monto": 104230628.0
+        },
+        {
+          "entidad": "BANCO BBVA ARGENTINA S.A.",
+          "monto": 102745027.0
+        },
+        {
+          "entidad": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+          "monto": 75095266.0
+        },
+        {
+          "entidad": "BANCO MACRO S.A.",
+          "monto": 72201982.0
+        },
+        {
+          "entidad": "NUEVO BANCO DE SANTA FE SOCIEDAD ANONIMA",
+          "monto": 21152725.0
+        },
+        {
+          "entidad": "BANCO DE VALORES S.A.",
+          "monto": 19853824.0
+        },
+        {
+          "entidad": "BANCO PATAGONIA S.A.",
+          "monto": 13639367.0
+        },
+        {
+          "entidad": "NUEVO BANCO DE ENTRE RIOS S.A.",
+          "monto": 7636468.0
+        },
+        {
+          "entidad": "BANCO INDUSTRIAL S.A.",
+          "monto": 7161133.0
+        },
+        {
+          "entidad": "BANCO DE LA CIUDAD DE BUENOS AIRES",
+          "monto": 6271034.0
+        },
+        {
+          "entidad": "BANCO DE LA PAMPA SA",
+          "monto": 5016020.0
+        },
+        {
+          "entidad": "BANCO DEL CHUBUT S.A.",
+          "monto": 5010708.0
+        },
+        {
+          "entidad": "BANCO COMAFI SOCIEDAD ANONIMA",
+          "monto": 4863425.0
+        },
+        {
+          "entidad": "BANCO PIANO S.A.",
+          "monto": 4318790.0
+        },
+        {
+          "entidad": "BANCO ROELA S.A.",
+          "monto": 2281710.0
+        },
+        {
+          "entidad": "BRUBANK S.A.U.",
+          "monto": 1582550.0
+        },
+        {
+          "entidad": "NUEVO BANCO DEL CHACO S. A.",
+          "monto": 1564180.0
+        },
+        {
+          "entidad": "BANCO DE SANTA CRUZ S.A.",
+          "monto": 854223.0
+        },
+        {
+          "entidad": "AMERICAN EXPRESS ARGENTINA S.A.",
+          "monto": 799093.0
+        },
+        {
+          "entidad": "BANCO DE INVERSION Y COMERCIO EXTERIOR S.A.",
+          "monto": 711069.0
+        },
+        {
+          "entidad": "BANCO PROVINCIA DEL NEUQUEN SOCIEDAD ANONIMA",
+          "monto": 339015.0
+        },
+        {
+          "entidad": "BANCO HIPOTECARIO S.A.",
+          "monto": 293023.0
+        },
+        {
+          "entidad": "BANCO DE SAN JUAN S.A.",
+          "monto": 255323.0
+        },
+        {
+          "entidad": "BANCO MUNICIPAL DE ROSARIO",
+          "monto": 145298.0
+        },
+        {
+          "entidad": "BACS BANCO DE CREDITO Y SECURITIZACION S.A.",
+          "monto": 56730.0
+        },
+        {
+          "entidad": "BANCO SUPERVIELLE S.A.",
+          "monto": 39543.0
+        },
+        {
+          "entidad": "BANCO DE LA PROVINCIA DE CORDOBA S.A.",
+          "monto": 14659.0
+        },
+        {
+          "entidad": "BANCO COINAG S.A.",
+          "monto": 8565.0
+        }
+      ]
+    },
+    {
+      "cuit": "30504018845",
+      "denominacion": "VOLKSWAGEN ARGENTINA S A",
+      "deuda_total": 942401724.0,
+      "entidades": [
+        {
+          "entidad": "BANCO MACRO S.A.",
+          "monto": 230590874.0
+        },
+        {
+          "entidad": "BANCO SANTANDER ARGENTINA S.A.",
+          "monto": 149796311.0
+        },
+        {
+          "entidad": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ARGENTINA) S.A.U.",
+          "monto": 143817190.0
+        },
+        {
+          "entidad": "BANCO PATAGONIA S.A.",
+          "monto": 137816735.0
+        },
+        {
+          "entidad": "BANCO DE GALICIA Y BUENOS AIRES S.A.",
+          "monto": 132913698.0
+        },
+        {
+          "entidad": "BANCO BBVA ARGENTINA S.A.",
+          "monto": 80886000.0
+        },
+        {
+          "entidad": "BANCO INDUSTRIAL S.A.",
+          "monto": 35050812.0
+        },
+        {
+          "entidad": "CITIBANK N.A.",
+          "monto": 20691236.0
+        },
+        {
+          "entidad": "BNP PARIBAS",
+          "monto": 10223260.0
+        },
+        {
+          "entidad": "BANCO DE SERVICIOS Y TRANSACCIONES SAU",
+          "monto": 615608.0
+        }
+      ]
+    },
+    {
+      "cuit": "30678519681",
+      "denominacion": "FORD ARGENTINA SOCIEDAD EN COMANDITA POR ACCIONES",
+      "deuda_total": 921630531.0,
+      "entidades": [
+        {
+          "entidad": "BANCO DE GALICIA Y BUENOS AIRES S.A.",
+          "monto": 295116579.0
+        },
+        {
+          "entidad": "BANCO PATAGONIA S.A.",
+          "monto": 172278360.0
+        },
+        {
+          "entidad": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ARGENTINA) S.A.U.",
+          "monto": 163518969.0
+        },
+        {
+          "entidad": "BANCO BBVA ARGENTINA S.A.",
+          "monto": 134238510.0
+        },
+        {
+          "entidad": "BANCO DE LA NACION ARGENTINA",
+          "monto": 47904850.0
+        },
+        {
+          "entidad": "BANCO MACRO S.A.",
+          "monto": 39947933.0
+        },
+        {
+          "entidad": "BANCO COMAFI SOCIEDAD ANONIMA",
+          "monto": 39340245.0
+        },
+        {
+          "entidad": "BANCO SANTANDER ARGENTINA S.A.",
+          "monto": 28907534.0
+        },
+        {
+          "entidad": "CITIBANK N.A.",
+          "monto": 376658.0
+        },
+        {
+          "entidad": "YPF S.A.",
+          "monto": 893.0
+        }
+      ]
+    },
+    {
+      "cuit": "30685376349",
+      "denominacion": "TARJETA NARANJA S.A.U.",
+      "deuda_total": 823766018.0,
+      "entidades": [
+        {
+          "entidad": "BANCO DE GALICIA Y BUENOS AIRES S.A.",
+          "monto": 149227475.0
+        },
+        {
+          "entidad": "BANCO SUPERVIELLE S.A.",
+          "monto": 89435355.0
+        },
+        {
+          "entidad": "BANCO MACRO S.A.",
+          "monto": 81440927.0
+        },
+        {
+          "entidad": "BANCO SANTANDER ARGENTINA S.A.",
+          "monto": 69866083.0
+        },
+        {
+          "entidad": "NUEVO BANCO DE SANTA FE SOCIEDAD ANONIMA",
+          "monto": 56672193.0
+        },
+        {
+          "entidad": "BANCO DE LA CIUDAD DE BUENOS AIRES",
+          "monto": 56437560.0
+        },
+        {
+          "entidad": "BANCO PATAGONIA S.A.",
+          "monto": 45102436.0
+        },
+        {
+          "entidad": "BANCO DE LA NACION ARGENTINA",
+          "monto": 41200000.0
+        },
+        {
+          "entidad": "BANCO COMAFI SOCIEDAD ANONIMA",
+          "monto": 39820124.0
+        },
+        {
+          "entidad": "NARANJA DIGITAL COMPANIA FINANCIERA S.A.U.",
+          "monto": 33250786.0
+        },
+        {
+          "entidad": "BANCO DE LA PROVINCIA DE CORDOBA S.A.",
+          "monto": 25838228.0
+        },
+        {
+          "entidad": "BANCO DE SAN JUAN S.A.",
+          "monto": 24177235.0
+        },
+        {
+          "entidad": "NUEVO BANCO DE ENTRE RIOS S.A.",
+          "monto": 22088117.0
+        },
+        {
+          "entidad": "BANCO MARIVA S.A.",
+          "monto": 20281136.0
+        },
+        {
+          "entidad": "BANCO DE SERVICIOS Y TRANSACCIONES SAU",
+          "monto": 20102762.0
+        },
+        {
+          "entidad": "BANCO CMF S.A.",
+          "monto": 19397759.0
+        },
+        {
+          "entidad": "BANCO DE VALORES S.A.",
+          "monto": 18472635.0
+        },
+        {
+          "entidad": "BANCO ROELA S.A.",
+          "monto": 4982472.0
+        },
+        {
+          "entidad": "BANCO DINO S.A.",
+          "monto": 2228171.0
+        },
+        {
+          "entidad": "BANCO DE SANTA CRUZ S.A.",
+          "monto": 2166852.0
+        },
+        {
+          "entidad": "BANCO DE LA PAMPA SA",
+          "monto": 1526699.0
+        },
+        {
+          "entidad": "AMERICAN EXPRESS ARGENTINA S.A.",
+          "monto": 32549.0
+        },
+        {
+          "entidad": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+          "monto": 13248.0
+        },
+        {
+          "entidad": "BANCO HIPOTECARIO S.A.",
+          "monto": 5117.0
+        },
+        {
+          "entidad": "BANCO CREDICOOP COOPERATIVO LIMITADO",
+          "monto": 56.0
+        },
+        {
+          "entidad": "REBA COMPANIA FINANCIERA S.A.",
+          "monto": 43.0
+        }
+      ]
+    },
+    {
+      "cuit": "30639453738",
+      "denominacion": "TELECOM ARGENTINA SOCIEDAD ANONIMA",
+      "deuda_total": 769502449.0,
+      "entidades": [
+        {
+          "entidad": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ARGENTINA) S.A.U.",
+          "monto": 192340299.0
+        },
+        {
+          "entidad": "BANCO DE GALICIA Y BUENOS AIRES S.A.",
+          "monto": 134215109.0
+        },
+        {
+          "entidad": "BANCO MACRO S.A.",
+          "monto": 105655312.0
+        },
+        {
+          "entidad": "BANCO PATAGONIA S.A.",
+          "monto": 89989542.0
+        },
+        {
+          "entidad": "BANCO BBVA ARGENTINA S.A.",
+          "monto": 68219016.0
+        },
+        {
+          "entidad": "BANCO DE LA NACION ARGENTINA",
+          "monto": 31606507.0
+        },
+        {
+          "entidad": "BANCO COMAFI SOCIEDAD ANONIMA",
+          "monto": 24978364.0
+        },
+        {
+          "entidad": "NUEVO BANCO DE SANTA FE SOCIEDAD ANONIMA",
+          "monto": 23709115.0
+        },
+        {
+          "entidad": "BANCO SUPERVIELLE S.A.",
+          "monto": 20617349.0
+        },
+        {
+          "entidad": "CITIBANK N.A.",
+          "monto": 20141793.0
+        },
+        {
+          "entidad": "BANCO INDUSTRIAL S.A.",
+          "monto": 19892521.0
+        },
+        {
+          "entidad": "NUEVO BANCO DE ENTRE RIOS S.A.",
+          "monto": 16466179.0
+        },
+        {
+          "entidad": "BANCO DE SAN JUAN S.A.",
+          "monto": 8548295.0
+        },
+        {
+          "entidad": "BANCO ROELA S.A.",
+          "monto": 4528045.0
+        },
+        {
+          "entidad": "BANCO DE SANTA CRUZ S.A.",
+          "monto": 2666330.0
+        },
+        {
+          "entidad": "BIBANK S.A.",
+          "monto": 1632335.0
+        },
+        {
+          "entidad": "YPF S.A.",
+          "monto": 1598053.0
+        },
+        {
+          "entidad": "BANCO DE LA PAMPA SA",
+          "monto": 1024797.0
+        },
+        {
+          "entidad": "BANCO DE FORMOSA S.A.",
+          "monto": 753484.0
+        },
+        {
+          "entidad": "BANCO SANTANDER ARGENTINA S.A.",
+          "monto": 720713.0
+        },
+        {
+          "entidad": "BANCO DE LA PROVINCIA DE CORDOBA S.A.",
+          "monto": 130880.0
+        },
+        {
+          "entidad": "AMERICAN EXPRESS ARGENTINA S.A.",
+          "monto": 66625.0
+        },
+        {
+          "entidad": "BANCO DE LA CIUDAD DE BUENOS AIRES",
+          "monto": 1038.0
+        },
+        {
+          "entidad": "BANCO HIPOTECARIO S.A.",
+          "monto": 748.0
+        }
+      ]
+    },
+    {
+      "cuit": "33515950899",
+      "denominacion": "VISTA ENERGY ARGENTINA S.A.U",
+      "deuda_total": 747545171.0,
+      "entidades": [
+        {
+          "entidad": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ARGENTINA) S.A.U.",
+          "monto": 214106779.0
+        },
+        {
+          "entidad": "BANCO DE GALICIA Y BUENOS AIRES S.A.",
+          "monto": 142757309.0
+        },
+        {
+          "entidad": "CITIBANK N.A.",
+          "monto": 133993214.0
+        },
+        {
+          "entidad": "BANCO DE LA NACION ARGENTINA",
+          "monto": 84756845.0
+        },
+        {
+          "entidad": "BANCO BBVA ARGENTINA S.A.",
+          "monto": 72971417.0
+        },
+        {
+          "entidad": "BANCO DE LA CIUDAD DE BUENOS AIRES",
+          "monto": 54520994.0
+        },
+        {
+          "entidad": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+          "monto": 15240138.0
+        },
+        {
+          "entidad": "BANCO DE VALORES S.A.",
+          "monto": 14596056.0
+        },
+        {
+          "entidad": "BANCO DE LA PAMPA SA",
+          "monto": 3663063.0
+        },
+        {
+          "entidad": "NUEVO BANCO DE SANTA FE SOCIEDAD ANONIMA",
+          "monto": 3552996.0
+        },
+        {
+          "entidad": "BANCO DE SERVICIOS Y TRANSACCIONES SAU",
+          "monto": 2205940.0
+        },
+        {
+          "entidad": "BANCO DE SAN JUAN S.A.",
+          "monto": 1923372.0
+        },
+        {
+          "entidad": "BANCO INDUSTRIAL S.A.",
+          "monto": 1437799.0
+        },
+        {
+          "entidad": "BANCO DEL CHUBUT S.A.",
+          "monto": 707378.0
+        },
+        {
+          "entidad": "BANCO DE SANTA CRUZ S.A.",
+          "monto": 529362.0
+        },
+        {
+          "entidad": "BANCO DE FORMOSA S.A.",
+          "monto": 253614.0
+        },
+        {
+          "entidad": "NUEVO BANCO DE ENTRE RIOS S.A.",
+          "monto": 160222.0
+        },
+        {
+          "entidad": "BANCO MACRO S.A.",
+          "monto": 90551.0
+        },
+        {
+          "entidad": "BANCO CMF S.A.",
+          "monto": 53440.0
+        },
+        {
+          "entidad": "YPF S.A.",
+          "monto": 24682.0
+        }
+      ]
+    },
+    {
+      "cuit": "30546676427",
+      "denominacion": "TESORERIA GENERAL DE LA NACION",
+      "deuda_total": 714842102.0,
+      "entidades": [
+        {
+          "entidad": "BANCO DE LA NACION ARGENTINA",
+          "monto": 714842102.0
+        }
+      ]
+    },
+    {
+      "cuit": "30503508725",
+      "denominacion": "AGRO BAYER S. R. L.",
+      "deuda_total": 622680996.0,
+      "entidades": [
+        {
+          "entidad": "BANCO DE GALICIA Y BUENOS AIRES S.A.",
+          "monto": 161673369.0
+        },
+        {
+          "entidad": "BANCO BBVA ARGENTINA S.A.",
+          "monto": 118733620.0
+        },
+        {
+          "entidad": "CITIBANK N.A.",
+          "monto": 91669043.0
+        },
+        {
+          "entidad": "BANCO MACRO S.A.",
+          "monto": 83936203.0
+        },
+        {
+          "entidad": "BANCO INDUSTRIAL S.A.",
+          "monto": 44154125.0
+        },
+        {
+          "entidad": "BANCO COMAFI SOCIEDAD ANONIMA",
+          "monto": 39795813.0
+        },
+        {
+          "entidad": "BANCO SANTANDER ARGENTINA S.A.",
+          "monto": 33639169.0
+        },
+        {
+          "entidad": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ARGENTINA) S.A.U.",
+          "monto": 26108222.0
+        },
+        {
+          "entidad": "BANCO DE LA CIUDAD DE BUENOS AIRES",
+          "monto": 16930527.0
+        },
+        {
+          "entidad": "BANCO SUPERVIELLE S.A.",
+          "monto": 5784172.0
+        },
+        {
+          "entidad": "AMERICAN EXPRESS ARGENTINA S.A.",
+          "monto": 256733.0
+        }
+      ]
+    },
+    {
+      "cuit": "30506726804",
+      "denominacion": "RAIZEN ARGENTINA S.A.U.",
+      "deuda_total": 597560929.0,
+      "entidades": [
+        {
+          "entidad": "BANCO DE GALICIA Y BUENOS AIRES S.A.",
+          "monto": 272189275.0
+        },
+        {
+          "entidad": "BANCO PATAGONIA S.A.",
+          "monto": 149669860.0
+        },
+        {
+          "entidad": "BANCO MACRO S.A.",
+          "monto": 71223225.0
+        },
+        {
+          "entidad": "BANCO DE LA CIUDAD DE BUENOS AIRES",
+          "monto": 53734304.0
+        },
+        {
+          "entidad": "BANCO COMAFI SOCIEDAD ANONIMA",
+          "monto": 28226032.0
+        },
+        {
+          "entidad": "BANCO SANTANDER ARGENTINA S.A.",
+          "monto": 21414622.0
+        },
+        {
+          "entidad": "CITIBANK N.A.",
+          "monto": 939037.0
+        },
+        {
+          "entidad": "BANCO BBVA ARGENTINA S.A.",
+          "monto": 105696.0
+        },
+        {
+          "entidad": "AMERICAN EXPRESS ARGENTINA S.A.",
+          "monto": 58878.0
+        }
+      ]
+    }
+  ],
+  "2": [
+    {
+      "cuit": "30507950848",
+      "denominacion": "MOLINO CAÑUELAS SOCIEDAD ANONIMA COMERCIAL INDUSTRIAL  FINANCIERA INMOBILIARIA Y AGROPECUARIA",
+      "deuda_total": 152917651.0,
+      "entidades": [
+        {
+          "entidad": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+          "monto": 101286039.0
+        },
+        {
+          "entidad": "BANCO MACRO S.A.",
+          "monto": 14134635.0
+        },
+        {
+          "entidad": "BANCO DE GALICIA Y BUENOS AIRES S.A.",
+          "monto": 14027286.0
+        },
+        {
+          "entidad": "BANCO DE LA CIUDAD DE BUENOS AIRES",
+          "monto": 9912255.0
+        },
+        {
+          "entidad": "BANCO BBVA ARGENTINA S.A.",
+          "monto": 8731348.0
+        },
+        {
+          "entidad": "BANCO DE LA PROVINCIA DE CORDOBA S.A.",
+          "monto": 4826088.0
+        }
+      ]
+    },
+    {
+      "cuit": "30588855631",
+      "denominacion": "SOCIEDAD ANONIMA LA SIBILA",
+      "deuda_total": 31368788.0,
+      "entidades": [
+        {
+          "entidad": "BANCO DE LA NACION ARGENTINA",
+          "monto": 26656569.0
+        },
+        {
+          "entidad": "BANCO SANTANDER ARGENTINA S.A.",
+          "monto": 4712219.0
+        }
+      ]
+    },
+    {
+      "cuit": "30517164530",
+      "denominacion": "SIDECO AMERICANA S A",
+      "deuda_total": 18750064.0,
+      "entidades": [
+        {
+          "entidad": "BANCO DE LA NACION ARGENTINA",
+          "monto": 18750064.0
+        }
+      ]
+    },
+    {
+      "cuit": "30681491380",
+      "denominacion": "DONTO SOCIEDAD ANONIMA",
+      "deuda_total": 15002786.0,
+      "entidades": [
+        {
+          "entidad": "BANCO DE LA NACION ARGENTINA",
+          "monto": 15002786.0
+        }
+      ]
+    },
+    {
+      "cuit": "30682434720",
+      "denominacion": "GENERACION MEDITERRANEA S.A.",
+      "deuda_total": 13850884.0,
+      "entidades": [
+        {
+          "entidad": "BANCO RIOJA SOCIEDAD ANONIMA UNIPERSONAL",
+          "monto": 7485622.0
+        },
+        {
+          "entidad": "BANCO DEL CHUBUT S.A.",
+          "monto": 6365262.0
+        }
+      ]
+    },
+    {
+      "cuit": "30707633197",
+      "denominacion": "SPEEDAGRO S.R.L.",
+      "deuda_total": 10121461.0,
+      "entidades": [
+        {
+          "entidad": "BANCO DE GALICIA Y BUENOS AIRES S.A.",
+          "monto": 9570505.0
+        },
+        {
+          "entidad": "BANCO DE LA CIUDAD DE BUENOS AIRES",
+          "monto": 550921.0
+        },
+        {
+          "entidad": "BANCO MACRO S.A.",
+          "monto": 35.0
+        }
+      ]
+    },
+    {
+      "cuit": "30501678321",
+      "denominacion": "VALENTIN BIANCHI S A C I F S. A.",
+      "deuda_total": 9701594.0,
+      "entidades": [
+        {
+          "entidad": "BANCO SUPERVIELLE S.A.",
+          "monto": 4653321.0
+        },
+        {
+          "entidad": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ARGENTINA) S.A.U.",
+          "monto": 1682763.0
+        },
+        {
+          "entidad": "BANCO COMAFI SOCIEDAD ANONIMA",
+          "monto": 1595056.0
+        },
+        {
+          "entidad": "BANCO DE GALICIA Y BUENOS AIRES S.A.",
+          "monto": 1137047.0
+        },
+        {
+          "entidad": "BANCO INDUSTRIAL S.A.",
+          "monto": 425006.0
+        },
+        {
+          "entidad": "BIBANK S.A.",
+          "monto": 208401.0
+        }
+      ]
+    },
+    {
+      "cuit": "33702400169",
+      "denominacion": "M & A REPRESENTACIONES S R L",
+      "deuda_total": 9005147.0,
+      "entidades": [
+        {
+          "entidad": "BANCO DE GALICIA Y BUENOS AIRES S.A.",
+          "monto": 2927370.0
+        },
+        {
+          "entidad": "BANCO MACRO S.A.",
+          "monto": 2080707.0
+        },
+        {
+          "entidad": "BANCO DE LA NACION ARGENTINA",
+          "monto": 1542460.0
+        },
+        {
+          "entidad": "BANCO SUPERVIELLE S.A.",
+          "monto": 1463894.0
+        },
+        {
+          "entidad": "BANCO DE LA CIUDAD DE BUENOS AIRES",
+          "monto": 423916.0
+        },
+        {
+          "entidad": "BANCO SANTANDER ARGENTINA S.A.",
+          "monto": 312533.0
+        },
+        {
+          "entidad": "BANCO DEL SOL S.A.",
+          "monto": 254267.0
+        }
+      ]
+    },
+    {
+      "cuit": "30715278541",
+      "denominacion": "GANADERA YVOTY S.A.",
+      "deuda_total": 7659019.0,
+      "entidades": [
+        {
+          "entidad": "BANCO DE CORRIENTES S.A.",
+          "monto": 5041958.0
+        },
+        {
+          "entidad": "BANCO BBVA ARGENTINA S.A.",
+          "monto": 2617061.0
+        }
+      ]
+    },
+    {
+      "cuit": "30709585254",
+      "denominacion": "LUSTRAMAX SRL",
+      "deuda_total": 7564178.0,
+      "entidades": [
+        {
+          "entidad": "BANCO DE GALICIA Y BUENOS AIRES S.A.",
+          "monto": 3312967.0
+        },
+        {
+          "entidad": "BANCO BBVA ARGENTINA S.A.",
+          "monto": 1234366.0
+        },
+        {
+          "entidad": "BANCO BICA S.A.",
+          "monto": 833010.0
+        },
+        {
+          "entidad": "BANCO SANTANDER ARGENTINA S.A.",
+          "monto": 733882.0
+        },
+        {
+          "entidad": "BANCO COINAG S.A.",
+          "monto": 395606.0
+        },
+        {
+          "entidad": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ARGENTINA) S.A.U.",
+          "monto": 368391.0
+        },
+        {
+          "entidad": "BIBANK S.A.",
+          "monto": 319809.0
+        },
+        {
+          "entidad": "BANCO DE LA PAMPA SA",
+          "monto": 188232.0
+        },
+        {
+          "entidad": "MILLS SGR",
+          "monto": 94962.0
+        },
+        {
+          "entidad": "AMERICAN EXPRESS ARGENTINA S.A.",
+          "monto": 49576.0
+        },
+        {
+          "entidad": "REBA COMPANIA FINANCIERA S.A.",
+          "monto": 12000.0
+        },
+        {
+          "entidad": "Rig Avales S.G.R",
+          "monto": 11159.0
+        },
+        {
+          "entidad": "GARANTIA DE VALORES SGR",
+          "monto": 10218.0
+        }
+      ]
+    }
+  ],
+  "3": [
+    {
+      "cuit": "30707633197",
+      "denominacion": "SPEEDAGRO S.R.L.",
+      "deuda_total": 32484401.0,
+      "entidades": [
+        {
+          "entidad": "BANCO DE LA NACION ARGENTINA",
+          "monto": 30120574.0
+        },
+        {
+          "entidad": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ARGENTINA) S.A.U.",
+          "monto": 1434909.0
+        },
+        {
+          "entidad": "BANCO SANTANDER ARGENTINA S.A.",
+          "monto": 471735.0
+        },
+        {
+          "entidad": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+          "monto": 457183.0
+        }
+      ]
+    },
+    {
+      "cuit": "30552587827",
+      "denominacion": "COMPAÑIA ARGENTINA DE GRANOS S A",
+      "deuda_total": 21479408.0,
+      "entidades": [
+        {
+          "entidad": "BANCO DE LA PROVINCIA DE CORDOBA S.A.",
+          "monto": 19756375.0
+        },
+        {
+          "entidad": "BANCO DE GALICIA Y BUENOS AIRES S.A.",
+          "monto": 1723033.0
+        }
+      ]
+    },
+    {
+      "cuit": "30585790822",
+      "denominacion": "FRIGORIFICO GENERAL PICO S A",
+      "deuda_total": 19504847.0,
+      "entidades": [
+        {
+          "entidad": "BANCO DE LA PAMPA SA",
+          "monto": 9874256.0
+        },
+        {
+          "entidad": "BANCO SANTANDER ARGENTINA S.A.",
+          "monto": 3090457.0
+        },
+        {
+          "entidad": "BANCO DE LA NACION ARGENTINA",
+          "monto": 2826500.0
+        },
+        {
+          "entidad": "BANCO DE GALICIA Y BUENOS AIRES S.A.",
+          "monto": 1741126.0
+        },
+        {
+          "entidad": "BANCO COINAG S.A.",
+          "monto": 1272221.0
+        },
+        {
+          "entidad": "BANCO DE LA CIUDAD DE BUENOS AIRES",
+          "monto": 338681.0
+        },
+        {
+          "entidad": "BANCO MERIDIAN S.A.",
+          "monto": 240457.0
+        },
+        {
+          "entidad": "INNOVA SGR",
+          "monto": 50794.0
+        },
+        {
+          "entidad": "FIDEM SGR",
+          "monto": 41488.0
+        },
+        {
+          "entidad": "BANCO CREDICOOP COOPERATIVO LIMITADO",
+          "monto": 28820.0
+        },
+        {
+          "entidad": "BANCO DE SERVICIOS Y TRANSACCIONES SAU",
+          "monto": 47.0
+        }
+      ]
+    },
+    {
+      "cuit": "30521958134",
+      "denominacion": "CURTIEMBRE ARLEI S A",
+      "deuda_total": 19392389.0,
+      "entidades": [
+        {
+          "entidad": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+          "monto": 5838553.0
+        },
+        {
+          "entidad": "BANCO BBVA ARGENTINA S.A.",
+          "monto": 4803108.0
+        },
+        {
+          "entidad": "BANCO DE INVERSION Y COMERCIO EXTERIOR S.A.",
+          "monto": 4569500.0
+        },
+        {
+          "entidad": "BANCO DE GALICIA Y BUENOS AIRES S.A.",
+          "monto": 4157436.0
+        },
+        {
+          "entidad": "AMERICAN EXPRESS ARGENTINA S.A.",
+          "monto": 23792.0
+        }
+      ]
+    },
+    {
+      "cuit": "30711732752",
+      "denominacion": "OILSTONE ENERGIA S.A.",
+      "deuda_total": 11444799.0,
+      "entidades": [
+        {
+          "entidad": "BANCO SANTANDER ARGENTINA S.A.",
+          "monto": 6554470.0
+        },
+        {
+          "entidad": "BANCO BBVA ARGENTINA S.A.",
+          "monto": 4890329.0
+        }
+      ]
+    },
+    {
+      "cuit": "30501062150",
+      "denominacion": "CELULOSA ARGENTINA S A",
+      "deuda_total": 10421717.0,
+      "entidades": [
+        {
+          "entidad": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+          "monto": 10420662.0
+        },
+        {
+          "entidad": "Trend Capital S.A.",
+          "monto": 1055.0
+        }
+      ]
+    },
+    {
+      "cuit": "30709585254",
+      "denominacion": "LUSTRAMAX SRL",
+      "deuda_total": 9368993.0,
+      "entidades": [
+        {
+          "entidad": "BANCO CMF S.A.",
+          "monto": 6907507.0
+        },
+        {
+          "entidad": "BANCO SUPERVIELLE S.A.",
+          "monto": 1897526.0
+        },
+        {
+          "entidad": "MERCEDES-BENZ COMPANIA FINANCIERA ARGENTINA S.A.",
+          "monto": 342443.0
+        },
+        {
+          "entidad": "BANCO MACRO S.A.",
+          "monto": 140263.0
+        },
+        {
+          "entidad": "BANCO DE LA CIUDAD DE BUENOS AIRES",
+          "monto": 81254.0
+        }
+      ]
+    },
+    {
+      "cuit": "30707907092",
+      "denominacion": "BIOCERES S.A.",
+      "deuda_total": 8647091.0,
+      "entidades": [
+        {
+          "entidad": "BANCO SANTANDER ARGENTINA S.A.",
+          "monto": 8647091.0
+        }
+      ]
+    },
+    {
+      "cuit": "30715355546",
+      "denominacion": "RIPEZZI S. R. L.",
+      "deuda_total": 7691144.0,
+      "entidades": [
+        {
+          "entidad": "BANCO DE GALICIA Y BUENOS AIRES S.A.",
+          "monto": 2398416.0
+        },
+        {
+          "entidad": "BANCO DE LA NACION ARGENTINA",
+          "monto": 1291217.0
+        },
+        {
+          "entidad": "BANCO DE LA PROVINCIA DE CORDOBA S.A.",
+          "monto": 1187356.0
+        },
+        {
+          "entidad": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+          "monto": 904519.0
+        },
+        {
+          "entidad": "BANCO SUPERVIELLE S.A.",
+          "monto": 608073.0
+        },
+        {
+          "entidad": "BANCO COMAFI SOCIEDAD ANONIMA",
+          "monto": 454492.0
+        },
+        {
+          "entidad": "BANCO DE LA CIUDAD DE BUENOS AIRES",
+          "monto": 336599.0
+        },
+        {
+          "entidad": "BANCO SANTANDER ARGENTINA S.A.",
+          "monto": 283700.0
+        },
+        {
+          "entidad": "MERCADOLIBRE S.R.L.",
+          "monto": 134977.0
+        },
+        {
+          "entidad": "BANCO PATAGONIA S.A.",
+          "monto": 91795.0
+        }
+      ]
+    },
+    {
+      "cuit": "30626369622",
+      "denominacion": "HILADO S.A.",
+      "deuda_total": 6844456.0,
+      "entidades": [
+        {
+          "entidad": "BANCO DE CORRIENTES S.A.",
+          "monto": 6151880.0
+        },
+        {
+          "entidad": "BANCO SUPERVIELLE S.A.",
+          "monto": 692576.0
+        }
+      ]
+    }
+  ],
+  "4": [
+    {
+      "cuit": "30501657820",
+      "denominacion": "BODEGA NORTON S.A.",
+      "deuda_total": 39389985.0,
+      "entidades": [
+        {
+          "entidad": "BANCO SUPERVIELLE S.A.",
+          "monto": 8947660.0
+        },
+        {
+          "entidad": "BANCO DE GALICIA Y BUENOS AIRES S.A.",
+          "monto": 5893406.0
+        },
+        {
+          "entidad": "BANCO COMAFI SOCIEDAD ANONIMA",
+          "monto": 4774762.0
+        },
+        {
+          "entidad": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ARGENTINA) S.A.U.",
+          "monto": 4030504.0
+        },
+        {
+          "entidad": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+          "monto": 3164884.0
+        },
+        {
+          "entidad": "BANCO MACRO S.A.",
+          "monto": 2946941.0
+        },
+        {
+          "entidad": "BANCO INDUSTRIAL S.A.",
+          "monto": 2921646.0
+        },
+        {
+          "entidad": "BANCO DE LA NACION ARGENTINA",
+          "monto": 2619654.0
+        },
+        {
+          "entidad": "BANCO DE SAN JUAN S.A.",
+          "monto": 1886591.0
+        },
+        {
+          "entidad": "BANCO CMF S.A.",
+          "monto": 920979.0
+        },
+        {
+          "entidad": "BANCO DE INVERSION Y COMERCIO EXTERIOR S.A.",
+          "monto": 686712.0
+        },
+        {
+          "entidad": "BANCO SANTANDER ARGENTINA S.A.",
+          "monto": 457573.0
+        },
+        {
+          "entidad": "AMERICAN EXPRESS ARGENTINA S.A.",
+          "monto": 138673.0
+        }
+      ]
+    },
+    {
+      "cuit": "30712156909",
+      "denominacion": "REFI PAMPA S.A.",
+      "deuda_total": 34725848.0,
+      "entidades": [
+        {
+          "entidad": "BANCO DE LA NACION ARGENTINA",
+          "monto": 8087538.0
+        },
+        {
+          "entidad": "BANCO DE GALICIA Y BUENOS AIRES S.A.",
+          "monto": 6557512.0
+        },
+        {
+          "entidad": "BANCO INDUSTRIAL S.A.",
+          "monto": 4320584.0
+        },
+        {
+          "entidad": "BANCO MACRO S.A.",
+          "monto": 3776381.0
+        },
+        {
+          "entidad": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+          "monto": 3674667.0
+        },
+        {
+          "entidad": "BANCO BBVA ARGENTINA S.A.",
+          "monto": 3110124.0
+        },
+        {
+          "entidad": "BANCO COMAFI SOCIEDAD ANONIMA",
+          "monto": 2791595.0
+        },
+        {
+          "entidad": "BANCO SANTANDER ARGENTINA S.A.",
+          "monto": 2405244.0
+        },
+        {
+          "entidad": "BANCO DE LA PAMPA SA",
+          "monto": 1657.0
+        },
+        {
+          "entidad": "BANCO DE VALORES S.A.",
+          "monto": 546.0
+        }
+      ]
+    },
+    {
+      "cuit": "30604456475",
+      "denominacion": "LOS GROBO AGROPECUARIA S. A.",
+      "deuda_total": 33596054.0,
+      "entidades": [
+        {
+          "entidad": "BANCO DE GALICIA Y BUENOS AIRES S.A.",
+          "monto": 13416881.0
+        },
+        {
+          "entidad": "BANCO SUPERVIELLE S.A.",
+          "monto": 5622238.0
+        },
+        {
+          "entidad": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+          "monto": 4680734.0
+        },
+        {
+          "entidad": "BANCO HIPOTECARIO S.A.",
+          "monto": 3332199.0
+        },
+        {
+          "entidad": "BANCO MACRO S.A.",
+          "monto": 2187464.0
+        },
+        {
+          "entidad": "CREDIBEL S.A.",
+          "monto": 1920000.0
+        },
+        {
+          "entidad": "BANCO SANTANDER ARGENTINA S.A.",
+          "monto": 1009623.0
+        },
+        {
+          "entidad": "BANCO DEL CHUBUT S.A.",
+          "monto": 1000000.0
+        },
+        {
+          "entidad": "SOLVENTA SAS",
+          "monto": 360000.0
+        },
+        {
+          "entidad": "GS Negocios S.A.",
+          "monto": 66748.0
+        },
+        {
+          "entidad": "BANCO DE LA CIUDAD DE BUENOS AIRES",
+          "monto": 115.0
+        },
+        {
+          "entidad": "BANCO MARIVA S.A.",
+          "monto": 52.0
+        }
+      ]
+    },
+    {
+      "cuit": "30501062150",
+      "denominacion": "CELULOSA ARGENTINA S A",
+      "deuda_total": 30437369.0,
+      "entidades": [
+        {
+          "entidad": "BANCO DE LA CIUDAD DE BUENOS AIRES",
+          "monto": 7370706.0
+        },
+        {
+          "entidad": "BANCO DE VALORES S.A.",
+          "monto": 4967526.0
+        },
+        {
+          "entidad": "BANCO DE SERVICIOS Y TRANSACCIONES SAU",
+          "monto": 3352411.0
+        },
+        {
+          "entidad": "NUEVO BANCO DE SANTA FE SOCIEDAD ANONIMA",
+          "monto": 3148361.0
+        },
+        {
+          "entidad": "BANCO MACRO S.A.",
+          "monto": 2918191.0
+        },
+        {
+          "entidad": "BANCO DE LA PROVINCIA DE CORDOBA S.A.",
+          "monto": 2366007.0
+        },
+        {
+          "entidad": "BANCO JULIO SOCIEDAD ANONIMA",
+          "monto": 750610.0
+        },
+        {
+          "entidad": "BANCO DE LA NACION ARGENTINA",
+          "monto": 712987.0
+        },
+        {
+          "entidad": "BIBANK S.A.",
+          "monto": 706927.0
+        },
+        {
+          "entidad": "BANCO COINAG S.A.",
+          "monto": 688194.0
+        },
+        {
+          "entidad": "BANCO SANTANDER ARGENTINA S.A.",
+          "monto": 639314.0
+        },
+        {
+          "entidad": "Cooperativa de Credito Consumo y Vivienda Fincredit Ltda",
+          "monto": 600000.0
+        },
+        {
+          "entidad": "BANCO INDUSTRIAL S.A.",
+          "monto": 586516.0
+        },
+        {
+          "entidad": "BANCO DEL CHUBUT S.A.",
+          "monto": 494843.0
+        },
+        {
+          "entidad": "BANCO SUPERVIELLE S.A.",
+          "monto": 432739.0
+        },
+        {
+          "entidad": "BANCO MUNICIPAL DE ROSARIO",
+          "monto": 362359.0
+        },
+        {
+          "entidad": "BANCO CMF S.A.",
+          "monto": 339678.0
+        }
+      ]
+    },
+    {
+      "cuit": "30592724541",
+      "denominacion": "AGROFINA S A",
+      "deuda_total": 25898756.0,
+      "entidades": [
+        {
+          "entidad": "BANCO DE GALICIA Y BUENOS AIRES S.A.",
+          "monto": 7553908.0
+        },
+        {
+          "entidad": "BANCO SANTANDER ARGENTINA S.A.",
+          "monto": 5665654.0
+        },
+        {
+          "entidad": "BANCO SUPERVIELLE S.A.",
+          "monto": 3779093.0
+        },
+        {
+          "entidad": "BANCO MACRO S.A.",
+          "monto": 2801320.0
+        },
+        {
+          "entidad": "BANCO HIPOTECARIO S.A.",
+          "monto": 2257378.0
+        },
+        {
+          "entidad": "CREDIBEL S.A.",
+          "monto": 1514207.0
+        },
+        {
+          "entidad": "SOLVENTA SAS",
+          "monto": 750000.0
+        },
+        {
+          "entidad": "GS Negocios S.A.",
+          "monto": 550000.0
+        },
+        {
+          "entidad": "BANCO DINO S.A.",
+          "monto": 500000.0
+        },
+        {
+          "entidad": "BANCO DE VALORES S.A.",
+          "monto": 265822.0
+        },
+        {
+          "entidad": "BANCO DE LA NACION ARGENTINA",
+          "monto": 135038.0
+        },
+        {
+          "entidad": "BANCO DE FORMOSA S.A.",
+          "monto": 86336.0
+        },
+        {
+          "entidad": "CREDITO REGIONAL COMPANIA FINANCIERA S.A.U.",
+          "monto": 40000.0
+        }
+      ]
+    },
+    {
+      "cuit": "30616106119",
+      "denominacion": "ILVA S.A..",
+      "deuda_total": 17343149.0,
+      "entidades": [
+        {
+          "entidad": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+          "monto": 4380674.0
+        },
+        {
+          "entidad": "BANCO BBVA ARGENTINA S.A.",
+          "monto": 3489935.0
+        },
+        {
+          "entidad": "BANCO DE GALICIA Y BUENOS AIRES S.A.",
+          "monto": 2259438.0
+        },
+        {
+          "entidad": "BANCO DE LA NACION ARGENTINA",
+          "monto": 1765168.0
+        },
+        {
+          "entidad": "BANCO SANTANDER ARGENTINA S.A.",
+          "monto": 1740283.0
+        },
+        {
+          "entidad": "BANCO DE LA CIUDAD DE BUENOS AIRES",
+          "monto": 1124701.0
+        },
+        {
+          "entidad": "BANCO COMAFI SOCIEDAD ANONIMA",
+          "monto": 747473.0
+        },
+        {
+          "entidad": "BANCO INDUSTRIAL S.A.",
+          "monto": 587765.0
+        },
+        {
+          "entidad": "GARANTIA DE VALORES SGR",
+          "monto": 526410.0
+        },
+        {
+          "entidad": "BANCO SUPERVIELLE S.A.",
+          "monto": 323644.0
+        },
+        {
+          "entidad": "BANCO MACRO S.A.",
+          "monto": 199042.0
+        },
+        {
+          "entidad": "ACINDAR PYMES SGR",
+          "monto": 145297.0
+        },
+        {
+          "entidad": "ARGENPYMES SGR",
+          "monto": 53319.0
+        }
+      ]
+    },
+    {
+      "cuit": "30709585254",
+      "denominacion": "LUSTRAMAX SRL",
+      "deuda_total": 17076105.0,
+      "entidades": [
+        {
+          "entidad": "BANCO DE LA NACION ARGENTINA",
+          "monto": 8728656.0
+        },
+        {
+          "entidad": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+          "monto": 2252998.0
+        },
+        {
+          "entidad": "BANCO CREDICOOP COOPERATIVO LIMITADO",
+          "monto": 2165339.0
+        },
+        {
+          "entidad": "BANCO DE SERVICIOS Y TRANSACCIONES SAU",
+          "monto": 2026136.0
+        },
+        {
+          "entidad": "BANCO MARIVA S.A.",
+          "monto": 1573817.0
+        },
+        {
+          "entidad": "BANCO INDUSTRIAL S.A.",
+          "monto": 211612.0
+        },
+        {
+          "entidad": "BANCO MERIDIAN S.A.",
+          "monto": 117547.0
+        }
+      ]
+    },
+    {
+      "cuit": "30710060505",
+      "denominacion": "SOUTHAMERICAN TRENDY S.A.",
+      "deuda_total": 16075321.0,
+      "entidades": [
+        {
+          "entidad": "BANCO DE LA NACION ARGENTINA",
+          "monto": 7120910.0
+        },
+        {
+          "entidad": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+          "monto": 3388065.0
+        },
+        {
+          "entidad": "BANCO SANTANDER ARGENTINA S.A.",
+          "monto": 1317509.0
+        },
+        {
+          "entidad": "BANCO DE LA CIUDAD DE BUENOS AIRES",
+          "monto": 1062189.0
+        },
+        {
+          "entidad": "BANCO DE GALICIA Y BUENOS AIRES S.A.",
+          "monto": 974064.0
+        },
+        {
+          "entidad": "BANCO SUPERVIELLE S.A.",
+          "monto": 575331.0
+        },
+        {
+          "entidad": "BANCO HIPOTECARIO S.A.",
+          "monto": 573991.0
+        },
+        {
+          "entidad": "San Cristobal Bienes Raices S.A.",
+          "monto": 287000.0
+        },
+        {
+          "entidad": "BANCO INDUSTRIAL S.A.",
+          "monto": 178128.0
+        },
+        {
+          "entidad": "BANCO BBVA ARGENTINA S.A.",
+          "monto": 152334.0
+        },
+        {
+          "entidad": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ARGENTINA) S.A.U.",
+          "monto": 139468.0
+        },
+        {
+          "entidad": "INTEGRA PYMES SGR",
+          "monto": 115777.0
+        },
+        {
+          "entidad": "GARANTIZAR SGR",
+          "monto": 99998.0
+        },
+        {
+          "entidad": "BANCO DE COMERCIO S.A.",
+          "monto": 84776.0
+        },
+        {
+          "entidad": "AFB AVALES S.G.R.",
+          "monto": 5781.0
+        }
+      ]
+    },
+    {
+      "cuit": "33708929579",
+      "denominacion": "ITALAR S.R.L.",
+      "deuda_total": 15302644.0,
+      "entidades": [
+        {
+          "entidad": "NUEVO BANCO DEL CHACO S. A.",
+          "monto": 5503285.0
+        },
+        {
+          "entidad": "JOHN DEERE CREDIT COMPANIA FINANCIERA S.A.",
+          "monto": 2487611.0
+        },
+        {
+          "entidad": "BANCO DE CORRIENTES S.A.",
+          "monto": 1815505.0
+        },
+        {
+          "entidad": "BANCO BBVA ARGENTINA S.A.",
+          "monto": 1309628.0
+        },
+        {
+          "entidad": "BANCO SANTANDER ARGENTINA S.A.",
+          "monto": 1062401.0
+        },
+        {
+          "entidad": "BANCO DE GALICIA Y BUENOS AIRES S.A.",
+          "monto": 1004366.0
+        },
+        {
+          "entidad": "BANCO DE SERVICIOS Y TRANSACCIONES SAU",
+          "monto": 738232.0
+        },
+        {
+          "entidad": "BANCO DE LA NACION ARGENTINA",
+          "monto": 687328.0
+        },
+        {
+          "entidad": "BANCO DEL SOL S.A.",
+          "monto": 413354.0
+        },
+        {
+          "entidad": "BANCO COMAFI SOCIEDAD ANONIMA",
+          "monto": 107118.0
+        },
+        {
+          "entidad": "MILLS SGR",
+          "monto": 87601.0
+        },
+        {
+          "entidad": "GARANTIZAR SGR",
+          "monto": 66215.0
+        },
+        {
+          "entidad": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ARGENTINA) S.A.U.",
+          "monto": 20000.0
+        }
+      ]
+    },
+    {
+      "cuit": "30710557957",
+      "denominacion": "ENTRE RIOS CRUSHING SOCIEDAD ANONIMA",
+      "deuda_total": 13165012.0,
+      "entidades": [
+        {
+          "entidad": "BANCO DE LA NACION ARGENTINA",
+          "monto": 13165012.0
+        }
+      ]
+    }
+  ],
+  "5": [
+    {
+      "cuit": "30709085111",
+      "denominacion": "CAMPOCAM S. A.",
+      "deuda_total": 8295399.0,
+      "entidades": [
+        {
+          "entidad": "BANCO MACRO S.A.",
+          "monto": 8295399.0
+        },
+        {
+          "entidad": "BANCO SANTANDER ARGENTINA S.A.",
+          "monto": 0.0
+        }
+      ]
+    },
+    {
+      "cuit": "30559697857",
+      "denominacion": "CURTIEMBRES FONSECA SA",
+      "deuda_total": 6983011.0,
+      "entidades": [
+        {
+          "entidad": "BANCO DE LA NACION ARGENTINA",
+          "monto": 5110601.0
+        },
+        {
+          "entidad": "BANCO DE GALICIA Y BUENOS AIRES S.A.",
+          "monto": 1791877.0
+        },
+        {
+          "entidad": "BANCO DE LA CIUDAD DE BUENOS AIRES",
+          "monto": 55028.0
+        },
+        {
+          "entidad": "AMERICAN EXPRESS ARGENTINA S.A.",
+          "monto": 18200.0
+        },
+        {
+          "entidad": "FONDO DE GARANTIAS ARGENTINO",
+          "monto": 7305.0
+        },
+        {
+          "entidad": "BANCO BBVA ARGENTINA S.A.",
+          "monto": 0.0
+        },
+        {
+          "entidad": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+          "monto": 0.0
+        },
+        {
+          "entidad": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ARGENTINA) S.A.U.",
+          "monto": 0.0
+        }
+      ]
+    },
+    {
+      "cuit": "30710964013",
+      "denominacion": "FIDEICOMISO FINANCIERO GAS II",
+      "deuda_total": 6749553.0,
+      "entidades": [
+        {
+          "entidad": "BANCO DE LA NACION ARGENTINA",
+          "monto": 6749553.0
+        }
+      ]
+    },
+    {
+      "cuit": "30710739605",
+      "denominacion": "CHOEL S.R.L.",
+      "deuda_total": 5305534.0,
+      "entidades": [
+        {
+          "entidad": "BANCO DEL CHUBUT S.A.",
+          "monto": 5305534.0
+        },
+        {
+          "entidad": "BANCO DE LA NACION ARGENTINA",
+          "monto": 0.0
+        }
+      ]
+    },
+    {
+      "cuit": "33711054869",
+      "denominacion": "LA REDENCION S. A.",
+      "deuda_total": 4864268.0,
+      "entidades": [
+        {
+          "entidad": "BANCO DE LA PROVINCIA DE CORDOBA S.A.",
+          "monto": 4843272.0
+        },
+        {
+          "entidad": "BANCO DE LA NACION ARGENTINA",
+          "monto": 20994.0
+        },
+        {
+          "entidad": "BANCO DE GALICIA Y BUENOS AIRES S.A.",
+          "monto": 2.0
+        },
+        {
+          "entidad": "BANCO BBVA ARGENTINA S.A.",
+          "monto": 0.0
+        },
+        {
+          "entidad": "BANCO MACRO S.A.",
+          "monto": 0.0
+        },
+        {
+          "entidad": "BANCO SANTANDER ARGENTINA S.A.",
+          "monto": 0.0
+        }
+      ]
+    },
+    {
+      "cuit": "30715393251",
+      "denominacion": "START.AR S. A.",
+      "deuda_total": 4301272.0,
+      "entidades": [
+        {
+          "entidad": "BANCO DE LA CIUDAD DE BUENOS AIRES",
+          "monto": 3031528.0
+        },
+        {
+          "entidad": "BANCO SUPERVIELLE S.A.",
+          "monto": 719517.0
+        },
+        {
+          "entidad": "BANCO DE SAN JUAN S.A.",
+          "monto": 550227.0
+        },
+        {
+          "entidad": "BANCO MACRO S.A.",
+          "monto": 0.0
+        },
+        {
+          "entidad": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ARGENTINA) S.A.U.",
+          "monto": 0.0
+        }
+      ]
+    },
+    {
+      "cuit": "30713812206",
+      "denominacion": "BALSUAR 3 S.R.L.",
+      "deuda_total": 4192335.0,
+      "entidades": [
+        {
+          "entidad": "BANCO DE GALICIA Y BUENOS AIRES S.A.",
+          "monto": 1084165.0
+        },
+        {
+          "entidad": "BANCO DE LA NACION ARGENTINA",
+          "monto": 829070.0
+        },
+        {
+          "entidad": "GARANTIZAR SGR",
+          "monto": 780383.0
+        },
+        {
+          "entidad": "AGCO CAPITAL ARGENTINA S.A.",
+          "monto": 559143.0
+        },
+        {
+          "entidad": "BANCO SUPERVIELLE S.A.",
+          "monto": 330284.0
+        },
+        {
+          "entidad": "CREDIBEL S.A.",
+          "monto": 200000.0
+        },
+        {
+          "entidad": "UFINAN SA",
+          "monto": 101454.0
+        },
+        {
+          "entidad": "BANCO DE LA PROVINCIA DE CORDOBA S.A.",
+          "monto": 96832.0
+        },
+        {
+          "entidad": "NUEVO BANCO DEL CHACO S. A.",
+          "monto": 85611.0
+        },
+        {
+          "entidad": "GS Negocios S.A.",
+          "monto": 50400.0
+        },
+        {
+          "entidad": "BANCO COINAG S.A.",
+          "monto": 42209.0
+        },
+        {
+          "entidad": "AMERICAN EXPRESS ARGENTINA S.A.",
+          "monto": 31937.0
+        },
+        {
+          "entidad": "TELEPEAJE S.A.",
+          "monto": 847.0
+        },
+        {
+          "entidad": "BANCO BBVA ARGENTINA S.A.",
+          "monto": 0.0
+        },
+        {
+          "entidad": "BANCO SANTANDER ARGENTINA S.A.",
+          "monto": 0.0
+        },
+        {
+          "entidad": "NUEVO BANCO DE SANTA FE SOCIEDAD ANONIMA",
+          "monto": 0.0
+        }
+      ]
+    },
+    {
+      "cuit": "30552587827",
+      "denominacion": "COMPAÑIA ARGENTINA DE GRANOS S A",
+      "deuda_total": 3761888.0,
+      "entidades": [
+        {
+          "entidad": "BANCO DE LA CIUDAD DE BUENOS AIRES",
+          "monto": 3761888.0
+        },
+        {
+          "entidad": "BANCO DE LA PAMPA SA",
+          "monto": 0.0
+        },
+        {
+          "entidad": "BANCO DE SERVICIOS Y TRANSACCIONES SAU",
+          "monto": 0.0
+        }
+      ]
+    },
+    {
+      "cuit": "30589527115",
+      "denominacion": "SURCOS S.A.",
+      "deuda_total": 3428390.0,
+      "entidades": [
+        {
+          "entidad": "BANCO SUPERVIELLE S.A.",
+          "monto": 1772767.0
+        },
+        {
+          "entidad": "BANCO DE GALICIA Y BUENOS AIRES S.A.",
+          "monto": 735083.0
+        },
+        {
+          "entidad": "ARGENPYMES SGR",
+          "monto": 415633.0
+        },
+        {
+          "entidad": "ACINDAR PYMES SGR",
+          "monto": 194404.0
+        },
+        {
+          "entidad": "BANCO HIPOTECARIO S.A.",
+          "monto": 136963.0
+        },
+        {
+          "entidad": "UNION SGR",
+          "monto": 112021.0
+        },
+        {
+          "entidad": "CREDITO REGIONAL COMPANIA FINANCIERA S.A.U.",
+          "monto": 50000.0
+        },
+        {
+          "entidad": "AMERICAN EXPRESS ARGENTINA S.A.",
+          "monto": 11438.0
+        },
+        {
+          "entidad": "BANCO MACRO S.A.",
+          "monto": 81.0
+        },
+        {
+          "entidad": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ARGENTINA) S.A.U.",
+          "monto": 0.0
+        }
+      ]
+    },
+    {
+      "cuit": "30710791461",
+      "denominacion": "TRANSREDES SA",
+      "deuda_total": 3068161.0,
+      "entidades": [
+        {
+          "entidad": "BANCO DEL CHUBUT S.A.",
+          "monto": 3064399.0
+        },
+        {
+          "entidad": "SOCIEDAD DE CREDITO SA",
+          "monto": 3762.0
+        },
+        {
+          "entidad": "BANCO DE GALICIA Y BUENOS AIRES S.A.",
+          "monto": 0.0
+        },
+        {
+          "entidad": "BANCO BBVA ARGENTINA S.A.",
+          "monto": 0.0
+        }
+      ]
+    }
+  ]
+}
